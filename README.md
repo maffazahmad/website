@@ -8,7 +8,7 @@ In the projectt directory, you can also run:
 
 ### `npm start`
 
-Runs app as inthedevelopment mode.\
+Runs app as in the thedevelopment mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
