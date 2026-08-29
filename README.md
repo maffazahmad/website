@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 <<<<<<< HEAD
-Thiss project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 =======
 <<<<<<< HEAD
  Thissss project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
