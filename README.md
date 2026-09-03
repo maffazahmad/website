@@ -4,7 +4,7 @@
 Thissss project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 =======
 <<<<<<<s HEAD
- Thisss project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ Thiss project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Available Scripts
