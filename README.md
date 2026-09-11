@@ -4,7 +4,7 @@
 Thissss project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 =======
 <<<<<<<s HEAD
- Thisssassassssasssssssss the coolest project i. havvee i ever seen in the historo be the best project project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ Thiss the coolest project i. havvee i ever seen in the historo be the best project project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Available Scripts
